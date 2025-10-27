@@ -3,11 +3,11 @@ title: Home
 layout: default
 ---
 
-# Seu Nome
+# Bruno Henrique Marques Margotto
 PhD Candidate in Mechanical Engineering @ COPPE/UFRJ
 
 - Research: Inverse Heat Conduction, PHP, Kalman Filter  
-- Email: voce@exemplo.com | [Google Scholar](#) | [GitHub](#) | [CV (PDF)](#)
+- Email: brunohmmargotto@gmail.com | [Google Scholar](#) | [GitHub](#) | [CV (PDF)](#)
 
 ## News
 - Oct 2025 — New preprint on PHP heat-flux estimation.
